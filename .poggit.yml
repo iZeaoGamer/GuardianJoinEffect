@@ -1,4 +1,6 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/iZeaoGamer/GuardianJoinEffect
+branches:
+- master
 projects:
   GuardianJoinEffect:
     path: ""
